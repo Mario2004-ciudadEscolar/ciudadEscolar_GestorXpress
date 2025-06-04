@@ -9,7 +9,8 @@ Funciona completamente **offline**, con perfiles individuales y uno familiar que
 
 Haz clic para descargar la última versión de la aplicación:
 
-👉 [📦 Descargar `GestorXpress.apk`](./apk/app-debug.apk)
+👉 [📦 Descargar GestorXpress APK](https://github.com/Mario2004-ciudadEscolar/ciudadEscolar_GestorXpress/raw/main/app-debug.apk)
+
 
 > ⚠️ Recuerda permitir la instalación desde orígenes desconocidos en tu dispositivo Android.
 
